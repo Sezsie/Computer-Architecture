@@ -1,5 +1,5 @@
 /*
-* TITLE: Computer Architecture Lab 4
+* TITLE: Computer Architecture Lab 5
 * AUTHOR: Garrett Thrower
 * PURPOSE: A vending machine program that accepts certain types of coins and dispenses certain sodas, all
 * while keeping track of the stock of the sodas. The program also has a technician mode that allows the user
